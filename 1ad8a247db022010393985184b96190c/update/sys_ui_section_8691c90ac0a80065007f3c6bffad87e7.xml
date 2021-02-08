@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="8691c90ac0a80065007f3c6bffad87e7" sys_domain="global" table="cmdb_ci_app_server_tomcat" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>0</position>
+            <sys_created_by>glide.maint</sys_created_by>
+            <sys_created_on>2007-01-15 01:30:31</sys_created_on>
+            <sys_id>2360825eac1002030168375699305efb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="cmdb_ci_app_server_tomcat" sys_domain="global" view="Default view">8691c90ac0a80065007f3c6bffad87e7</sys_ui_section>
+            <sys_updated_by>glide.maint</sys_updated_by>
+            <sys_updated_on>2007-01-15 01:30:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>category</element>
+            <position>1</position>
+            <sys_created_by>glide.maint</sys_created_by>
+            <sys_created_on>2007-01-15 01:30:31</sys_created_on>
+            <sys_id>23608268ac1002030128fd34dd775499</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="cmdb_ci_app_server_tomcat" sys_domain="global" view="Default view">8691c90ac0a80065007f3c6bffad87e7</sys_ui_section>
+            <sys_updated_by>glide.maint</sys_updated_by>
+            <sys_updated_on>2007-01-15 01:30:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>version</element>
+            <position>2</position>
+            <sys_created_by>glide.maint</sys_created_by>
+            <sys_created_on>2007-01-15 01:30:31</sys_created_on>
+            <sys_id>23608268ac10020301d6291562c7caef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="cmdb_ci_app_server_tomcat" sys_domain="global" view="Default view">8691c90ac0a80065007f3c6bffad87e7</sys_ui_section>
+            <sys_updated_by>glide.maint</sys_updated_by>
+            <sys_updated_on>2007-01-15 01:30:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>glide.maint</sys_created_by>
+            <sys_created_on>2007-01-15 01:30:31</sys_created_on>
+            <sys_id>23608268ac100203013cc523e30c3c47</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="cmdb_ci_app_server_tomcat" sys_domain="global" view="Default view">8691c90ac0a80065007f3c6bffad87e7</sys_ui_section>
+            <sys_updated_by>glide.maint</sys_updated_by>
+            <sys_updated_on>2007-01-15 01:30:31</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>managed_by</element>
+            <position>4</position>
+            <sys_created_by>glide.maint</sys_created_by>
+            <sys_created_on>2007-01-15 01:30:31</sys_created_on>
+            <sys_id>23608268ac10020301df4449810e6726</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="cmdb_ci_app_server_tomcat" sys_domain="global" view="Default view">8691c90ac0a80065007f3c6bffad87e7</sys_ui_section>
+            <sys_updated_by>glide.maint</sys_updated_by>
+            <sys_updated_on>2007-01-15 01:30:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>support_group</element>
+            <position>5</position>
+            <sys_created_by>glide.maint</sys_created_by>
+            <sys_created_on>2007-01-15 01:30:31</sys_created_on>
+            <sys_id>23608272ac10020301073e4215757857</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="cmdb_ci_app_server_tomcat" sys_domain="global" view="Default view">8691c90ac0a80065007f3c6bffad87e7</sys_ui_section>
+            <sys_updated_by>glide.maint</sys_updated_by>
+            <sys_updated_on>2007-01-15 01:30:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>tcp_port</element>
+            <position>6</position>
+            <sys_created_by>glide.maint</sys_created_by>
+            <sys_created_on>2007-01-15 01:30:31</sys_created_on>
+            <sys_id>23608272ac1002030111d1f16bce3d5d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="cmdb_ci_app_server_tomcat" sys_domain="global" view="Default view">8691c90ac0a80065007f3c6bffad87e7</sys_ui_section>
+            <sys_updated_by>glide.maint</sys_updated_by>
+            <sys_updated_on>2007-01-15 01:30:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>server_port</element>
+            <position>7</position>
+            <sys_created_by>glide.maint</sys_created_by>
+            <sys_created_on>2007-01-15 01:30:31</sys_created_on>
+            <sys_id>23608272ac100203008557ee17f86bf2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="cmdb_ci_app_server_tomcat" sys_domain="global" view="Default view">8691c90ac0a80065007f3c6bffad87e7</sys_ui_section>
+            <sys_updated_by>glide.maint</sys_updated_by>
+            <sys_updated_on>2007-01-15 01:30:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>8</position>
+            <sys_created_by>glide.maint</sys_created_by>
+            <sys_created_on>2007-01-15 01:30:31</sys_created_on>
+            <sys_id>23608272ac10020300274d1c101ec759</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="cmdb_ci_app_server_tomcat" sys_domain="global" view="Default view">8691c90ac0a80065007f3c6bffad87e7</sys_ui_section>
+            <sys_updated_by>glide.maint</sys_updated_by>
+            <sys_updated_on>2007-01-15 01:30:31</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ui_ng_relation_formatter.xml</element>
+            <position>9</position>
+            <sys_created_by>glide.maint</sys_created_by>
+            <sys_created_on>2007-01-15 01:30:31</sys_created_on>
+            <sys_id>2360827cac1002030135d761289d8f4b</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_ui_formatter display_value="CI Relations">b62309137f32310009fedf92bdfa912b</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="cmdb_ci_app_server_tomcat" sys_domain="global" view="Default view">8691c90ac0a80065007f3c6bffad87e7</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2020-09-25 01:04:03</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_my_custom_field</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-05 09:48:52</sys_created_on>
+            <sys_id>f71ee64bdb022010393985184b96197a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="cmdb_ci_app_server_tomcat" sys_domain="global" view="Default view">8691c90ac0a80065007f3c6bffad87e7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-05 09:48:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>cmdb_ci_app_server_tomcat</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>glide.maint</sys_created_by>
+            <sys_created_on>2006-10-26 21:41:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path/>
+            <sys_id>8691c90ac0a80065007f3c6bffad87e7</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_name>cmdb_ci_app_server_tomcat</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Configuration Management (CMDB)" source="com.snc.cmdb">997137c8c923101091f9f06464832722</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Common CMDB Model">1ad8a247db022010393985184b96190c</sys_scope>
+            <sys_update_name>sys_ui_section_8691c90ac0a80065007f3c6bffad87e7</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-05 09:49:44</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Common CMDB Model">1ad8a247db022010393985184b96190c</claim_owner_scope>
+        <claim_timestamp>1777198f12a0000001</claim_timestamp>
+        <metadata_update_name>sys_ui_section_8691c90ac0a80065007f3c6bffad87e7</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>Common CMDB Model</previous_claim_name>
+        <previous_claim_scope>1ad8a247db022010393985184b96190c</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-05 09:49:44</sys_created_on>
+        <sys_id>e05eae4bdb022010393985184b961905</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-05 09:49:44</sys_updated_on>
+    </sys_claim>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Common CMDB Model">1ad8a247db022010393985184b96190c</claim_owner_scope>
+        <claim_timestamp>1777198f1290000001</claim_timestamp>
+        <metadata_update_name>sys_ui_section_8691c90ac0a80065007f3c6bffad87e7</metadata_update_name>
+        <previous_claim_app_version/>
+        <previous_claim_name>com.snc.cmdb</previous_claim_name>
+        <previous_claim_scope>com.snc.cmdb</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-05 09:49:44</sys_created_on>
+        <sys_id>a45eae4bdb022010393985184b961905</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-05 09:49:44</sys_updated_on>
+    </sys_claim>
+</record_update>

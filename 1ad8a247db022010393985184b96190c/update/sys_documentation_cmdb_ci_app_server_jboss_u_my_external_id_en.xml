@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_my_external_id" label="My External ID" language="en" table="cmdb_ci_app_server_jboss">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_my_external_id</element>
+            <help/>
+            <hint/>
+            <label>My External ID</label>
+            <language>en</language>
+            <name>cmdb_ci_app_server_jboss</name>
+            <plural>My External IDs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-08 15:49:50</sys_created_on>
+            <sys_id>ec8d57ccdb522010393985184b96198e</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>My External ID</sys_name>
+            <sys_package display_value="Global" source="global">global</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Common CMDB Model">1ad8a247db022010393985184b96190c</sys_scope>
+            <sys_update_name>sys_documentation_cmdb_ci_app_server_jboss_u_my_external_id_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-08 15:52:39</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Common CMDB Model">1ad8a247db022010393985184b96190c</claim_owner_scope>
+        <claim_timestamp>1778258490c0000001</claim_timestamp>
+        <metadata_update_name>sys_documentation_cmdb_ci_app_server_jboss_u_my_external_id_en</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>Common CMDB Model</previous_claim_name>
+        <previous_claim_scope>1ad8a247db022010393985184b96190c</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-08 15:52:39</sys_created_on>
+        <sys_id>462e5fccdb522010393985184b96196c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-08 15:52:39</sys_updated_on>
+    </sys_claim>
+</record_update>

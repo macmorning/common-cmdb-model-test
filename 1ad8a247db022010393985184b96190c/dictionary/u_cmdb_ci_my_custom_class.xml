@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="cmdb_ci" label="My custom class" max_length="40" name="u_cmdb_ci_my_custom_class" sizeclass="0" type="collection">
+        <element choice="1" label="My choice" max_length="40" name="u_my_choice" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Valeur 1" sequence="10" value="va1"/>
+                <element inactive_on_update="false" label="Valeur 2" sequence="20" value="va2"/>
+            </choice>
+        </element>
+    </element>
+</database>
